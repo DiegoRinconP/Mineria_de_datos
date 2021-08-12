@@ -1,5 +1,5 @@
-# Mineria_de_datos
-## Estudiante FCFM
+# Mineria_de_datos FCFM
+## Grupo Miércoles
 
 ## Fase 1
 
