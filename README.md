@@ -7,5 +7,5 @@
 
 -[Ejercicio base de datos](https://github.com/DiegoRinconP/Mineria_de_datos/blob/main/Equipo_2-Ejercicio%20base%20de%20datos.pdf)
 
--[Ejercicio limpieza de datoa](https://github.com/DiegoRinconP/Mineria_de_datos/blob/main/Ej_Limpieza_2.ipynb)
+-[Ejercicio limpieza de datos](https://github.com/DiegoRinconP/Mineria_de_datos/blob/main/Ej_Limpieza_2.ipynb)
 
