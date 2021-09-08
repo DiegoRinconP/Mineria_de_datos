@@ -14,3 +14,9 @@
 -[Ejercicio limpieza de datos](https://github.com/DiegoRinconP/Mineria_de_datos/blob/main/Ej_Limpieza_2.ipynb)
 
 -[Avance PIA 1](https://github.com/DiegoRinconP/Mineria_de_datos/blob/main/Avance1_PIA_2.ipynb)
+
+
+## Fase 2
+
+[Presentación](https://github.com/DiegoRinconP/Mineria_de_datos/blob/main/Presentacion_Outliers_2.pdf)
+
