@@ -18,5 +18,5 @@
 
 ## Fase 2
 
-[Presentación](https://github.com/DiegoRinconP/Mineria_de_datos/blob/main/Presentacion_Outliers_2.pdf)
+-[Presentación](https://github.com/DiegoRinconP/Mineria_de_datos/blob/main/Presentacion_Outliers_2.pdf)
 
