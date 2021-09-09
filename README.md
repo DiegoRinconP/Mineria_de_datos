@@ -20,3 +20,5 @@
 
 -[Presentación](https://github.com/DiegoRinconP/Mineria_de_datos/blob/main/Presentacion_Outliers_2.pdf)
 
+-[Colab presentción](https://github.com/DiegoRinconP/Mineria_de_datos/blob/main/Pruebas_outliers.ipynb)
+
