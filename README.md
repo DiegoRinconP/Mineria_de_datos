@@ -32,5 +32,6 @@
 
 -[Tecnicas de Mineria](https://github.com/DiegoRinconP/Mineria_de_datos/blob/main/T%C3%A9cnicas_de_Mineria_Equipo_02.ipynb)
 
-##Fase 3
+## Fase 3
+
 -[Notebook](https://github.com/DiegoRinconP/Mineria_de_datos/blob/main/Notebook_Equipo2.ipynb)
